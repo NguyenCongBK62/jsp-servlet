@@ -1,0 +1,7 @@
+127.0.0.1 - - [06/Mar/2020:15:21:21 +0700] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [06/Mar/2020:15:21:29 +0700] "GET /shop/ HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [06/Mar/2020:15:23:05 +0700] "GET /shop/trang-chu;jsessionid=DF42DC114DD6BE84A9542939720845C6 HTTP/1.1" 200 8458
+0:0:0:0:0:0:0:1 - - [06/Mar/2020:15:23:05 +0700] "GET /shop/template/web/css/style.css HTTP/1.1" 200 196
+0:0:0:0:0:0:0:1 - - [06/Mar/2020:15:23:05 +0700] "GET /shop/template/web/jquery/jquery.min.js HTTP/1.1" 200 88145
+0:0:0:0:0:0:0:1 - - [06/Mar/2020:15:23:05 +0700] "GET /shop/template/web/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 155758
+0:0:0:0:0:0:0:1 - - [06/Mar/2020:15:23:05 +0700] "GET /shop/template/web/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 200 78635

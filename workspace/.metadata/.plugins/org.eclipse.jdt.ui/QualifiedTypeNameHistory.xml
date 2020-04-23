@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="javax.servlet.http.HttpServlet"/>
+<fullyQualifiedTypeName name="javax.servlet.annotation.WebServlet"/>
+<fullyQualifiedTypeName name="javax.servlet.RequestDispatcher"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="java.math.BigInteger"/>
+<fullyQualifiedTypeName name="java.security.Timestamp"/>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+<fullyQualifiedTypeName name="com.shop.model.AbstractModel"/>
+<fullyQualifiedTypeName name="java.sql.DriverManager"/>
+<fullyQualifiedTypeName name="com.shop.dao.ICategoryDAO"/>
+<fullyQualifiedTypeName name="com.shop.service.ICategoryService"/>
+<fullyQualifiedTypeName name="com.shop.dao.INewsDao"/>
+<fullyQualifiedTypeName name="javax.inject.Inject"/>
+<fullyQualifiedTypeName name="com.shop.service.INewsService"/>
+<fullyQualifiedTypeName name="com.shop.dao.INewsDAO"/>
+<fullyQualifiedTypeName name="java.sql.Connection"/>
+<fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+<fullyQualifiedTypeName name="com.shop.dao.GenericDAO"/>
+<fullyQualifiedTypeName name="java.sql.ResultSet"/>
+<fullyQualifiedTypeName name="com.mysql.cj.result.Row"/>
+<fullyQualifiedTypeName name="com.shop.mapper.RowMapper"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.shop.model.CategoryModel"/>
+<fullyQualifiedTypeName name="com.shop.dao.impl.CategoryDAO"/>
+<fullyQualifiedTypeName name="com.shop.mapper.CategoryMapper"/>
+<fullyQualifiedTypeName name="java.lang.Object"/>
+<fullyQualifiedTypeName name="java.sql.SQLException"/>
+<fullyQualifiedTypeName name="com.shop.dao.impl.AbstractDAO"/>
+<fullyQualifiedTypeName name="com.shop.model.NewsModel"/>
+<fullyQualifiedTypeName name="com.shop.mapper.NewsMapper"/>
+</qualifiedTypeNameHistroy>

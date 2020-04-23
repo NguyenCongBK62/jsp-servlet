@@ -1,0 +1,49 @@
+
+Feb 26, 2020 17:47:37.21 NEW SESSION
+Feb 26, 2020 17:47:37.21 [6536:4896:0226/174737.214:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\BkavPro\SiteAdvisor\Bkav Plugin\BkavPlugin.crx for key Software\Google\Chrome\Extensions\kjomkjjpbjeennhagfmlahfnlgleecmn does not exist or is not readable.
+Feb 26, 2020 17:47:37.63 [6536:2640:0226/174737.630:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+Feb 26, 2020 17:49:17.37 [372:7460:0226/174917.370:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\BkavPro\SiteAdvisor\Bkav Plugin\BkavPlugin.crx for key Software\Google\Chrome\Extensions\kjomkjjpbjeennhagfmlahfnlgleecmn does not exist or is not readable.
+Feb 26, 2020 17:49:17.54 [372:8152:0226/174917.541:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+
+Feb 26, 2020 18:00:46.71 NEW SESSION
+Feb 26, 2020 18:00:46.71 [5036:6708:0226/180046.715:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\BkavPro\SiteAdvisor\Bkav Plugin\BkavPlugin.crx for key Software\Google\Chrome\Extensions\kjomkjjpbjeennhagfmlahfnlgleecmn does not exist or is not readable.
+Feb 26, 2020 18:00:47.01 [5036:5544:0226/180047.015:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+Feb 26, 2020 18:02:18.22 [4280:5728:0226/180218.227:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\BkavPro\SiteAdvisor\Bkav Plugin\BkavPlugin.crx for key Software\Google\Chrome\Extensions\kjomkjjpbjeennhagfmlahfnlgleecmn does not exist or is not readable.
+Feb 26, 2020 18:02:18.61 [4280:6436:0226/180218.600:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+Feb 26, 2020 18:03:21.01 [6708:7844:0226/180321.013:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\BkavPro\SiteAdvisor\Bkav Plugin\BkavPlugin.crx for key Software\Google\Chrome\Extensions\kjomkjjpbjeennhagfmlahfnlgleecmn does not exist or is not readable.
+Feb 26, 2020 18:03:21.33 [6708:3724:0226/180321.339:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+
+Feb 27, 2020 16:16:43.48 NEW SESSION
+Feb 27, 2020 16:16:43.48 [6872:7296:0227/161642.608:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\BkavPro\SiteAdvisor\Bkav Plugin\BkavPlugin.crx for key Software\Google\Chrome\Extensions\kjomkjjpbjeennhagfmlahfnlgleecmn does not exist or is not readable.
+Feb 27, 2020 16:16:46.14 [6872:6944:0227/161646.143:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+
+Feb 27, 2020 16:23:36.10 NEW SESSION
+Feb 27, 2020 16:23:36.10 [7276:5708:0227/162335.413:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\BkavPro\SiteAdvisor\Bkav Plugin\BkavPlugin.crx for key Software\Google\Chrome\Extensions\kjomkjjpbjeennhagfmlahfnlgleecmn does not exist or is not readable.
+Feb 27, 2020 16:23:36.11 [7276:7264:0227/162335.611:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+Feb 27, 2020 16:31:24.16 [8332:7232:0227/163124.160:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\BkavPro\SiteAdvisor\Bkav Plugin\BkavPlugin.crx for key Software\Google\Chrome\Extensions\kjomkjjpbjeennhagfmlahfnlgleecmn does not exist or is not readable.
+Feb 27, 2020 16:31:24.34 [8332:4944:0227/163124.348:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+Feb 27, 2020 16:52:28.14 [7116:4844:0227/165228.148:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\BkavPro\SiteAdvisor\Bkav Plugin\BkavPlugin.crx for key Software\Google\Chrome\Extensions\kjomkjjpbjeennhagfmlahfnlgleecmn does not exist or is not readable.
+Feb 27, 2020 16:52:28.32 [7116:7796:0227/165228.324:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+Feb 27, 2020 16:53:12.02 [6256:9120:0227/165312.021:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\BkavPro\SiteAdvisor\Bkav Plugin\BkavPlugin.crx for key Software\Google\Chrome\Extensions\kjomkjjpbjeennhagfmlahfnlgleecmn does not exist or is not readable.
+Feb 27, 2020 16:53:12.26 [6256:1416:0227/165312.262:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+Feb 27, 2020 16:58:50.98 [8412:2020:0227/165850.981:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\BkavPro\SiteAdvisor\Bkav Plugin\BkavPlugin.crx for key Software\Google\Chrome\Extensions\kjomkjjpbjeennhagfmlahfnlgleecmn does not exist or is not readable.
+Feb 27, 2020 16:58:51.20 [8412:5100:0227/165851.206:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+Feb 27, 2020 17:03:08.54 [4496:9048:0227/170308.548:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\BkavPro\SiteAdvisor\Bkav Plugin\BkavPlugin.crx for key Software\Google\Chrome\Extensions\kjomkjjpbjeennhagfmlahfnlgleecmn does not exist or is not readable.
+Feb 27, 2020 17:03:08.72 [4496:2156:0227/170308.728:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+Feb 27, 2020 17:08:16.20 [8968:9068:0227/170816.202:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\BkavPro\SiteAdvisor\Bkav Plugin\BkavPlugin.crx for key Software\Google\Chrome\Extensions\kjomkjjpbjeennhagfmlahfnlgleecmn does not exist or is not readable.
+Feb 27, 2020 17:08:16.47 [8968:1584:0227/170816.475:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+
+Feb 28, 2020 09:38:26.49 NEW SESSION
+Feb 28, 2020 09:38:26.49 [5772:3156:0228/093826.483:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\BkavPro\SiteAdvisor\Bkav Plugin\BkavPlugin.crx for key Software\Google\Chrome\Extensions\kjomkjjpbjeennhagfmlahfnlgleecmn does not exist or is not readable.
+Feb 28, 2020 09:38:26.77 [5772:7004:0228/093826.770:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+
+Feb 29, 2020 12:10:46.84 NEW SESSION
+Feb 29, 2020 12:10:46.84 [4584:7120:0229/121046.824:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\BkavPro\SiteAdvisor\Bkav Plugin\BkavPlugin.crx for key Software\Google\Chrome\Extensions\kjomkjjpbjeennhagfmlahfnlgleecmn does not exist or is not readable.
+
+Feb 29, 2020 15:49:22.74 NEW SESSION
+Feb 29, 2020 15:49:22.74 [4212:5008:0229/154922.576:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\BkavPro\SiteAdvisor\Bkav Plugin\BkavPlugin.crx for key Software\Google\Chrome\Extensions\kjomkjjpbjeennhagfmlahfnlgleecmn does not exist or is not readable.
+Feb 29, 2020 16:01:37.23 [2164:5936:0229/160137.231:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\BkavPro\SiteAdvisor\Bkav Plugin\BkavPlugin.crx for key Software\Google\Chrome\Extensions\kjomkjjpbjeennhagfmlahfnlgleecmn does not exist or is not readable.
+
+Mar 06, 2020 15:21:24.19 NEW SESSION
+Mar 06, 2020 15:21:24.19 [1920:6652:0306/152124.142:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\BkavPro\SiteAdvisor\Bkav Plugin\BkavPlugin.crx for key Software\Google\Chrome\Extensions\kjomkjjpbjeennhagfmlahfnlgleecmn does not exist or is not readable.
+Mar 06, 2020 15:23:16.36 [1920:5748:0306/152316.360:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
